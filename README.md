@@ -1,4 +1,4 @@
-<!-- ================= HEADER ================= -->
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Sampathkumar%20S&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Electronics%20and%20Communication%20Engineering%20|%20Embedded%20Systems&descAlignY=60&descSize=16"/>
 
